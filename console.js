@@ -1,2 +1,6 @@
 console.log("pull request 1")
-console.log("second pull request 2)
+ function hola(){
+    console.log("hola")
+ }
+
+ console.log("hola que tal")
